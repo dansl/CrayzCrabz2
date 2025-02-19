@@ -1,0 +1,14 @@
+# Unity3D Ignore #
+##################
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uilds/
+
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+*.pidb
+
+.DS_Store

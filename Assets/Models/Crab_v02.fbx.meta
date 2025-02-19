@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: 5817bf870ffbd4c51b4abcf70340b142
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Character001
+    100002: Character001Hub001
+    100004: Character001LArm1
+    100006: Character001LArm2
+    100008: Character001LLeg1
+    100010: Character001LLeg1 1
+    100012: Character001LLeg1 2
+    100014: Character001LLeg1 3
+    100016: Character001LLeg2
+    100018: Character001LLeg2 1
+    100020: Character001LLeg2 2
+    100022: Character001LLeg2 3
+    100024: Character001LLegAnkle
+    100026: Character001LLegAnkle 1
+    100028: Character001LLegAnkle 2
+    100030: Character001LLegAnkle 3
+    100032: Character001LLegPlatform
+    100034: Character001LLegPlatform 1
+    100036: Character001LLegPlatform 2
+    100038: Character001LLegPlatform 3
+    100040: Character001RArm1
+    100042: Character001RArm2
+    100044: Character001RLeg1
+    100046: Character001RLeg1 1
+    100048: Character001RLeg1 2
+    100050: Character001RLeg1 3
+    100052: Character001RLeg2
+    100054: Character001RLeg2 1
+    100056: Character001RLeg2 2
+    100058: Character001RLeg2 3
+    100060: Character001RLegAnkle
+    100062: Character001RLegAnkle 1
+    100064: Character001RLegAnkle 2
+    100066: Character001RLegAnkle 3
+    100068: Character001RLegPlatform
+    100070: Character001RLegPlatform 1
+    100072: Character001RLegPlatform 2
+    100074: Character001RLegPlatform 3
+    100076: //RootNode
+    100078: Merged_Crab_v005
+    100080: PM3D_Sphere3D_1
+    400000: Character001
+    400002: Character001Hub001
+    400004: Character001LArm1
+    400006: Character001LArm2
+    400008: Character001LLeg1
+    400010: Character001LLeg1 1
+    400012: Character001LLeg1 2
+    400014: Character001LLeg1 3
+    400016: Character001LLeg2
+    400018: Character001LLeg2 1
+    400020: Character001LLeg2 2
+    400022: Character001LLeg2 3
+    400024: Character001LLegAnkle
+    400026: Character001LLegAnkle 1
+    400028: Character001LLegAnkle 2
+    400030: Character001LLegAnkle 3
+    400032: Character001LLegPlatform
+    400034: Character001LLegPlatform 1
+    400036: Character001LLegPlatform 2
+    400038: Character001LLegPlatform 3
+    400040: Character001RArm1
+    400042: Character001RArm2
+    400044: Character001RLeg1
+    400046: Character001RLeg1 1
+    400048: Character001RLeg1 2
+    400050: Character001RLeg1 3
+    400052: Character001RLeg2
+    400054: Character001RLeg2 1
+    400056: Character001RLeg2 2
+    400058: Character001RLeg2 3
+    400060: Character001RLegAnkle
+    400062: Character001RLegAnkle 1
+    400064: Character001RLegAnkle 2
+    400066: Character001RLegAnkle 3
+    400068: Character001RLegPlatform
+    400070: Character001RLegPlatform 1
+    400072: Character001RLegPlatform 2
+    400074: Character001RLegPlatform 3
+    400076: //RootNode
+    400078: Merged_Crab_v005
+    400080: PM3D_Sphere3D_1
+    2300000: PM3D_Sphere3D_1
+    3300000: PM3D_Sphere3D_1
+    4300000: Merged_Crab_v005
+    4300002: PM3D_Sphere3D_1
+    7400000: CrabWalk
+    7400002: CrabDeath
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Merged_Crab_v005
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations:
+    - name: CrabWalk
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: CrabDeath
+      takeName: Take 001
+      firstFrame: 25
+      lastFrame: 39
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

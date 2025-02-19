@@ -1,0 +1,104 @@
+fileFormatVersion: 2
+guid: f8101d6af94c74d338855b47c6d2f996
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Buffet_v005:Buffets
+    100002: Buffet_v005:Chairs
+    100004: Buffet_v005:CondBar
+    100006: Buffet_v005:Floor
+    100008: Buffet_v005:Layer7
+    100010: Buffet_v005:Tables
+    100012: Buffet_v005:Walls
+    100014: //RootNode
+    100016: Camera
+    100018: Light
+    100020: SBake
+    400000: Buffet_v005:Buffets
+    400002: Buffet_v005:Chairs
+    400004: Buffet_v005:CondBar
+    400006: Buffet_v005:Floor
+    400008: Buffet_v005:Layer7
+    400010: Buffet_v005:Tables
+    400012: Buffet_v005:Walls
+    400014: //RootNode
+    400016: Camera
+    400018: Light
+    400020: SBake
+    2300000: Buffet_v005:Buffets
+    2300002: Buffet_v005:Chairs
+    2300004: Buffet_v005:CondBar
+    2300006: Buffet_v005:Floor
+    2300008: Buffet_v005:Layer7
+    2300010: Buffet_v005:Tables
+    2300012: Buffet_v005:Walls
+    3300000: Buffet_v005:Buffets
+    3300002: Buffet_v005:Chairs
+    3300004: Buffet_v005:CondBar
+    3300006: Buffet_v005:Floor
+    3300008: Buffet_v005:Layer7
+    3300010: Buffet_v005:Tables
+    3300012: Buffet_v005:Walls
+    4300000: Buffet_v005:Floor
+    4300002: Buffet_v005:Walls
+    4300004: Buffet_v005:Tables
+    4300006: Buffet_v005:Chairs
+    4300008: Buffet_v005:Buffets
+    4300010: Buffet_v005:CondBar
+    4300012: Buffet_v005:Layer7
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Buffet_v005:Buffets
+    13700002: Buffet_v005:CondBar
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  userData: 

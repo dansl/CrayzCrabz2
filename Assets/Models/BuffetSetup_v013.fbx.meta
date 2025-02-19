@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: bc0d1969d22a248f5b0b576ccb4e779c
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Buffet_v015:Buffets
+    100002: Buffet_v015:Cashier
+    100004: Buffet_v015:CondBar
+    100006: Buffet_v015:Floor
+    100008: Buffet_v015:Kitchen
+    100010: Buffet_v015:KitchenDoors
+    100012: Buffet_v015:Lanterns
+    100014: Buffet_v015:Pacifier
+    100016: Buffet_v015:Plant
+    100018: Buffet_v015:sneezeguards
+    100020: Buffet_v015:TVs
+    100022: Buffet_v015:Walls
+    100024: //RootNode
+    100026: C:\Users\Eric\Dropbox\CrayZCrabs2\Lightwave\Buffet_v014.lwo_(2)
+    100028: Camera
+    100030: Door1
+    100032: Door2
+    100034: Light
+    100036: SBake
+    100038: WallBaker
+    400000: Buffet_v015:Buffets
+    400002: Buffet_v015:Cashier
+    400004: Buffet_v015:CondBar
+    400006: Buffet_v015:Floor
+    400008: Buffet_v015:Kitchen
+    400010: Buffet_v015:KitchenDoors
+    400012: Buffet_v015:Lanterns
+    400014: Buffet_v015:Pacifier
+    400016: Buffet_v015:Plant
+    400018: Buffet_v015:sneezeguards
+    400020: Buffet_v015:TVs
+    400022: Buffet_v015:Walls
+    400024: //RootNode
+    400026: C:\Users\Eric\Dropbox\CrayZCrabs2\Lightwave\Buffet_v014.lwo_(2)
+    400028: Camera
+    400030: Door1
+    400032: Door2
+    400034: Light
+    400036: SBake
+    400038: WallBaker
+    2300000: Buffet_v015:Floor
+    2300002: Buffet_v015:Kitchen
+    2300004: Buffet_v015:Lanterns
+    2300006: Buffet_v015:Pacifier
+    2300008: Buffet_v015:Plant
+    2300010: Buffet_v015:sneezeguards
+    2300012: Buffet_v015:TVs
+    3300000: Buffet_v015:Floor
+    3300002: Buffet_v015:Kitchen
+    3300004: Buffet_v015:Lanterns
+    3300006: Buffet_v015:Pacifier
+    3300008: Buffet_v015:Plant
+    3300010: Buffet_v015:sneezeguards
+    3300012: Buffet_v015:TVs
+    4300000: Buffet_v015:Floor
+    4300002: Buffet_v015:Walls
+    4300004: Buffet_v015:Buffets
+    4300006: Buffet_v015:CondBar
+    4300008: Buffet_v015:Plant
+    4300010: Buffet_v015:sneezeguards
+    4300012: Buffet_v015:Lanterns
+    4300014: Buffet_v015:TVs
+    4300016: Buffet_v015:Cashier
+    4300018: Buffet_v015:Pacifier
+    4300020: Buffet_v015:Kitchen
+    4300022: Buffet_v015:KitchenDoors
+    9500000: //RootNode
+    13700000: Buffet_v015:Buffets
+    13700002: Buffet_v015:Cashier
+    13700004: Buffet_v015:CondBar
+    13700006: Buffet_v015:KitchenDoors
+    13700008: Buffet_v015:Walls
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 

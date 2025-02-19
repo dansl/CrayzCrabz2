@@ -1,0 +1,218 @@
+fileFormatVersion: 2
+guid: f1552643de42245f5a019cec544219a3
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Arc001
+    100002: CatParent
+    100004: CatParentChesthub
+    100006: CatParentHead
+    100008: CatParentHips
+    100010: CatParentLArm1
+    100012: CatParentLArm2
+    100014: CatParentLArmCollarbone
+    100016: CatParentLArmDigit11
+    100018: CatParentLArmDigit12
+    100020: CatParentLArmDigit21
+    100022: CatParentLArmDigit31
+    100024: CatParentLArmDigit41
+    100026: CatParentLArmPalm
+    100028: CatParentLFemur
+    100030: CatParentLLegAnkle
+    100032: CatParentLLegPlatform
+    100034: CatParentLShin
+    100036: CatParentRArm1
+    100038: CatParentRArm2
+    100040: CatParentRArmCollarbone
+    100042: CatParentRArmDigit11
+    100044: CatParentRArmDigit12
+    100046: CatParentRArmDigit21
+    100048: CatParentRArmDigit31
+    100050: CatParentRArmDigit41
+    100052: CatParentRArmPalm
+    100054: CatParentRFemur
+    100056: CatParentRLegAnkle
+    100058: CatParentRLegPlatform
+    100060: CatParentRShin
+    100062: CatParentSpine1
+    100064: CatParentSpine1 1
+    100066: CatParentSpine2
+    100068: CatParentSpine2 1
+    100070: CrayZ
+    100072: //RootNode
+    100074: Dummy001
+    100076: HandleL
+    100078: HandleR
+    100080: Hinge
+    400000: Arc001
+    400002: CatParent
+    400004: CatParentChesthub
+    400006: CatParentHead
+    400008: CatParentHips
+    400010: CatParentLArm1
+    400012: CatParentLArm2
+    400014: CatParentLArmCollarbone
+    400016: CatParentLArmDigit11
+    400018: CatParentLArmDigit12
+    400020: CatParentLArmDigit21
+    400022: CatParentLArmDigit31
+    400024: CatParentLArmDigit41
+    400026: CatParentLArmPalm
+    400028: CatParentLFemur
+    400030: CatParentLLegAnkle
+    400032: CatParentLLegPlatform
+    400034: CatParentLShin
+    400036: CatParentRArm1
+    400038: CatParentRArm2
+    400040: CatParentRArmCollarbone
+    400042: CatParentRArmDigit11
+    400044: CatParentRArmDigit12
+    400046: CatParentRArmDigit21
+    400048: CatParentRArmDigit31
+    400050: CatParentRArmDigit41
+    400052: CatParentRArmPalm
+    400054: CatParentRFemur
+    400056: CatParentRLegAnkle
+    400058: CatParentRLegPlatform
+    400060: CatParentRShin
+    400062: CatParentSpine1
+    400064: CatParentSpine1 1
+    400066: CatParentSpine2
+    400068: CatParentSpine2 1
+    400070: CrayZ
+    400072: //RootNode
+    400074: Dummy001
+    400076: HandleL
+    400078: HandleR
+    400080: Hinge
+    2300000: HandleL
+    2300002: HandleR
+    2300004: Hinge
+    3300000: HandleL
+    3300002: HandleR
+    3300004: Hinge
+    4300000: CrayZ
+    4300002: Hinge
+    4300004: HandleR
+    4300006: HandleL
+    7400000: Run
+    7400002: Attack
+    7400004: Idle
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: CrayZ
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations:
+    - name: Run
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 17
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Attack
+      takeName: Take 001
+      firstFrame: 18
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    - name: Idle
+      takeName: Take 001
+      firstFrame: 41
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      transformMask: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 1
+  userData: 

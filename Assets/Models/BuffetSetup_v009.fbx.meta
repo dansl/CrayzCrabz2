@@ -1,0 +1,119 @@
+fileFormatVersion: 2
+guid: 9b4bf44a0c4ab45b68ed4107a2265a84
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Buffet_v014:Buffets
+    100002: Buffet_v014:Cashier
+    100004: Buffet_v014:CondBar
+    100006: Buffet_v014:Floor
+    100008: Buffet_v014:Kitchen
+    100010: Buffet_v014:Lanterns
+    100012: Buffet_v014:Pacifier
+    100014: Buffet_v014:Plant
+    100016: Buffet_v014:sneezeguards
+    100018: Buffet_v014:TVs
+    100020: Buffet_v014:Walls
+    100022: //RootNode
+    100024: Camera
+    100026: Light
+    100028: SBake
+    100030: WallBaker
+    400000: Buffet_v014:Buffets
+    400002: Buffet_v014:Cashier
+    400004: Buffet_v014:CondBar
+    400006: Buffet_v014:Floor
+    400008: Buffet_v014:Kitchen
+    400010: Buffet_v014:Lanterns
+    400012: Buffet_v014:Pacifier
+    400014: Buffet_v014:Plant
+    400016: Buffet_v014:sneezeguards
+    400018: Buffet_v014:TVs
+    400020: Buffet_v014:Walls
+    400022: //RootNode
+    400024: Camera
+    400026: Light
+    400028: SBake
+    400030: WallBaker
+    2300000: Buffet_v014:Floor
+    2300002: Buffet_v014:Kitchen
+    2300004: Buffet_v014:Lanterns
+    2300006: Buffet_v014:Pacifier
+    2300008: Buffet_v014:Plant
+    2300010: Buffet_v014:sneezeguards
+    2300012: Buffet_v014:TVs
+    3300000: Buffet_v014:Floor
+    3300002: Buffet_v014:Kitchen
+    3300004: Buffet_v014:Lanterns
+    3300006: Buffet_v014:Pacifier
+    3300008: Buffet_v014:Plant
+    3300010: Buffet_v014:sneezeguards
+    3300012: Buffet_v014:TVs
+    4300000: Buffet_v014:Floor
+    4300002: Buffet_v014:Walls
+    4300004: Buffet_v014:Buffets
+    4300006: Buffet_v014:CondBar
+    4300008: Buffet_v014:Plant
+    4300010: Buffet_v014:sneezeguards
+    4300012: Buffet_v014:Lanterns
+    4300014: Buffet_v014:TVs
+    4300016: Buffet_v014:Cashier
+    4300018: Buffet_v014:Pacifier
+    4300020: Buffet_v014:Kitchen
+    9500000: //RootNode
+    13700000: Buffet_v014:Buffets
+    13700002: Buffet_v014:Cashier
+    13700004: Buffet_v014:CondBar
+    13700006: Buffet_v014:Walls
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
