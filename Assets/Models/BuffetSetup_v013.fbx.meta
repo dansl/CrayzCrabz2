@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: bc0d1969d22a248f5b0b576ccb4e779c
 ModelImporter:
-  serializedVersion: 15
+  serializedVersion: 23
   fileIDToRecycleName:
     100000: Buffet_v015:Buffets
     100002: Buffet_v015:Cashier
@@ -75,55 +75,210 @@ ModelImporter:
     13700004: Buffet_v015:CondBar
     13700006: Buffet_v015:KitchenDoors
     13700008: Buffet_v015:Walls
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brass_5
+    second: {fileID: 2100000, guid: 16de1ef2aacbe4c2f97da5da41a249d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buffet.Top_2
+    second: {fileID: 2100000, guid: ef7f18094940e402681f2ad11d302522, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Counter_3
+    second: {fileID: 2100000, guid: 493e588ab1062481485238512e63521f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_1
+    second: {fileID: 2100000, guid: ddf34ed5150414c77b7793f1631bbbb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_9
+    second: {fileID: 2100000, guid: ea517449e158749de9062ca88d92cbb1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door.Glass_11
+    second: {fileID: 2100000, guid: 5cfc21d015fab485cb99f639e5d2a876, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door.Rubber_11
+    second: {fileID: 2100000, guid: 4be71d2512c574be59c91ab7b7ab51da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor
+    second: {fileID: 2100000, guid: 0f819c730d18e43b5a825d1a450a579e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_5
+    second: {fileID: 2100000, guid: 46fdd32b5bc16481d8048f16ddb1197b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HostessStand_8
+    second: {fileID: 2100000, guid: 01c296030bf6b4454b276143f1b871fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: KitchenDoors_12
+    second: {fileID: 2100000, guid: 17f587647e7d54ef5919779d3bd98db2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen_10
+    second: {fileID: 2100000, guid: c4434abe1989c43dfb37ddf2733a0110, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lantern_7
+    second: {fileID: 2100000, guid: 04a5887fbc0004856ba8b7b92e1e2cc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_3
+    second: {fileID: 2100000, guid: 882148ffe02fd45e1b1219cc5debb8b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal_6
+    second: {fileID: 2100000, guid: 2a6cc2a9be33949dea7123f1ee624c3b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nipple_9
+    second: {fileID: 2100000, guid: 706e813de2ade45ef87f48ff9822ae97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pacifier.Back_9
+    second: {fileID: 2100000, guid: f915bbab129654088b5decfb47b361a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pacifier.Ring_9
+    second: {fileID: 2100000, guid: e5fd34ed7f0c44405ada9e09c83f49ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plant_4
+    second: {fileID: 2100000, guid: 4c8820671e9cd42199d3aef7148f713f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SaladBar.Counter_3
+    second: {fileID: 2100000, guid: 9e1df68600cdb4174ad47e9951109524, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SaladBar.Wood_3
+    second: {fileID: 2100000, guid: 9e1df68600cdb4174ad47e9951109524, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SaladBar_4
+    second: {fileID: 2100000, guid: 9e1df68600cdb4174ad47e9951109524, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: TV_7
+    second: {fileID: 2100000, guid: 3e649ca2d1e67464ca153fb893ad764a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls_1
+    second: {fileID: 2100000, guid: ec62b5bbbc77d4feba564cf169752ef2, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
+    resampleCurves: 1
     optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
     animationCompression: 1
-    animationRotationError: .5
-    animationPositionError: .5
-    animationScaleError: .5
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
+    extraUserProperties: []
     clipAnimations: []
     isReadable: 1
   meshes:
     lODScreenPercentages: []
-    globalScale: .00999999978
+    globalScale: 0.01
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
     importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
     optimizeMeshForGPU: 1
+    keepQuads: 0
     weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
-    splitTangentsAcrossUV: 1
     normalImportMode: 0
-    tangentImportMode: 1
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
   importAnimation: 1
   copyAvatar: 0
   humanDescription:
+    serializedVersion: 2
     human: []
     skeleton: []
-    armTwist: .5
-    foreArmTwist: .5
-    upperLegTwist: .5
-    legTwist: .5
-    armStretch: .0500000007
-    legStretch: .0500000007
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
     feetSpacing: 0
     rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
   lastHumanDescriptionAvatarSource: {instanceID: 0}
   animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
   userData: 
+  assetBundleName: 
+  assetBundleVariant: 
